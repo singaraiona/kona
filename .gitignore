@@ -7,3 +7,9 @@ kona_test
 *.exe
 *.*~
 TAGS
+.directory
+.idea/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+

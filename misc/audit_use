@@ -1,3 +1,0 @@
-#!/bin/sh
-
-ls -1 *.h | sed -e "s/\.h//" | xargs -n1 misc/audit_use_uses

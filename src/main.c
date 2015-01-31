@@ -1,5 +1,4 @@
 #include "incs.h"
-#include "k.h"
 
 int main(int argc,S*argv)
 {
