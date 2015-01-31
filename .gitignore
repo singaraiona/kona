@@ -1,0 +1,15 @@
+a.out
+k
+k_test
+kona
+kona_test
+*.[oa]
+*.exe
+*.*~
+TAGS
+.directory
+.idea/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
